@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>i=instance_create(x,y,object0)
+            <string>i=instance_create(x,y,obj_tower1)
 </string>
           </argument>
         </arguments>
